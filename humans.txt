@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Nick Segeti <role> -- <twitter>
 
 # THANKS
 
