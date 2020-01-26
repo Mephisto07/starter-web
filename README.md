@@ -6,6 +6,7 @@ A lot of Git Lecture are already submmited
 
 ## GIT & GitHub training
 This is a famous and one of the Best Traing Course of DevOps
+Adding GIT Rebase Lectures in GIT Advanced parts
 
 ## GIT Comparisons
 Adding GIT Comparisons Lecture 
