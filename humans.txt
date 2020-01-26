@@ -6,8 +6,8 @@ Hi, I am modifying  the file before rebase.
 # TEAM
 
     Nick Segeti
-	@trollnini
-	
+	@trollnini - Twitter
+	Software Engineer
 
 # THANKS
 
