@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Nick Segeti <role> -- <twitter>
+    Nick Segeti
+	@trollnini
+	
 
 # THANKS
 
