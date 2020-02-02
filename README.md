@@ -10,7 +10,8 @@ This is a famous and one of the Best Traing Course of DevOps
 Adding GIT Rebase Lectures in GIT Advanced parts. We have done so much of work together
 
 ## GIT Comparisons
-Adding GIT Comparisons Lecture 
+Adding GIT Comparisons Lecture.
+Adding Lecture of Stash
 
 ## Contribuition 
 Fork the Repo and raise pull request for review
