@@ -3,7 +3,8 @@
 
 Hi, I am modifying  the file before rebase.
 
-Doing some changes in local 
+Doing some changes in local.
+Adding important notes on GIT Stash
 
 # TEAM
 
